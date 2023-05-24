@@ -1,3 +1,3 @@
 # backgroundGenerator
 
-## I am just having fun with coding and exploring GitHub 💪
+### I am just having fun with coding and exploring GitHub 💪
